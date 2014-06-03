@@ -1,2 +1,1 @@
-osmbike.github.io
-=================
+[osm.bike](http://osm.bike/)
