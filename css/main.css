@@ -22,12 +22,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em; font-size: 200% }
+h2 { font-size: 150% }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #00b; }
+a:hover, a:visited:hover   { color: #000; }
+a:visited { color: #66a; }
 
 /*****************************************************************************/
 /*
